@@ -13,7 +13,7 @@
                     <key>CustomProperty</key>
                     <string></string>
                     <key>url</key>
-                    <string>https://share.game810.com/download/810game_2_0_0.ipa</string>
+                    <string>https://share.game810.com/download/jzqipaiIOS.ipa</string>
                 </dict>
                 <string></string>
                 <string></string>
@@ -25,7 +25,7 @@
                 <key>CustomProperty</key>
                 <string></string>
                 <key>title</key>
-                <string>810游戏</string>
+                <string>金樽游戏</string>
                 <key>bundle-identifier</key>
                 <string>com.810.fishgame</string>
                 <key>bundle-version</key>
